@@ -1,7 +1,7 @@
 {
   "name": "Nodds",
   "version": "0.1.0",
-  "summary": "A short description of Nodds.",
+  "summary": "Lazy nodds",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/mrachid/Nodds",
   "license": {
@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "Nodds/Classes/**/*"
+  "source_files": "Classes/**/*"
 }
