@@ -1,0 +1,22 @@
+{
+  "name": "Nodds",
+  "version": "0.1.0",
+  "summary": "A short description of Nodds.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mrachid/Nodds",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mrachid": "mrachid@adneom.com"
+  },
+  "source": {
+    "git": "https://github.com/mrachid/Nodds.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Nodds/Classes/**/*"
+}

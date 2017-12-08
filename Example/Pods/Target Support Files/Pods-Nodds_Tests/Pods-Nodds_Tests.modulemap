@@ -1,0 +1,6 @@
+framework module Pods_Nodds_Tests {
+  umbrella header "Pods-Nodds_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

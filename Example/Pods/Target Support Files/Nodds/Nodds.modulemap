@@ -1,0 +1,6 @@
+framework module Nodds {
+  umbrella header "Nodds-umbrella.h"
+
+  export *
+  module * { export * }
+}
